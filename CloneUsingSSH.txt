@@ -1,0 +1,8 @@
+-cd ~/.ssh
+-ssh-keygen
+If not available and to genereate a new key 
+-ls
+we can see rsa_pub, rsa 
+-cat id_rsa.pub
+copy this to public key and paste in your github account -> settings -> ssh and gpg key is
+-git clone git@github.com:Divyasree167/GitBasics1.git

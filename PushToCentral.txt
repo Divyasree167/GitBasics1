@@ -1,0 +1,13 @@
+$ git clone git@github.com:Divyasree167/GitBasics1.git
+$ ls
+CloneUsingSSH.txt  GitBasics1/
+$cd GitBasics/
+$git init
+Initializes an empty Git repo
+$git status
+shows CLoneUsingSSH as untracked
+$ git add .
+Adds the untracked files to staged area
+$git commit -m "commit msg"
+$git push -u origin main
+

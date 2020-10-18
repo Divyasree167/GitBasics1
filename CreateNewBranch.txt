@@ -1,0 +1,11 @@
+-vi CreateNewBranch.txt
+- git branch
+Shows which branches are available ; Eg:Main
+- git branch test
+Creates a new branch test
+-git branch
+Shows all the branches that are available
+-git checkout test
+Switches to the branch test
+-git branch --show current
+shows the current branch we are on which is test
